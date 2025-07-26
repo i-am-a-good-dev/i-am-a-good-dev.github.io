@@ -4,11 +4,9 @@
 const CONFIG = {
 	// Basic Profile Information
 	profile: {
-		image: "https://profilie.js.org/media/logo.png",
-		name: "Profilie Starter Kit - Free Templates for Social Profiles",
-		description: `A free pre-built templates for social profiles, portfolios & websites. Quickly create a sweet-looking website to highlight your social media presence.
-                  
-                  Customize your profile by visiting your <code>config.js</code> file in your own repository. You can also change this description to your desired one.`,
+		image: "https://avatars.githubusercontent.com/u/221407041?v=4",
+		name: "A Good Dev",
+		description: `I'm a good dev, thanks for visiting my simple website. :)`,
 
     // You may change the footer of your profile but keeping it intact will be appreciated.
 		footer: "Powered by <a href='https://github.com/profilie/profilie' target='_blank'>Profilie</a> - Free Templates for Social Profiles"
@@ -21,7 +19,7 @@ const CONFIG = {
 		// Popular Development Platforms
 		github: {
 			enabled: true,
-			url: "https://github.com/profilie/",
+			url: "https://github.com/i-am-a-good-dev/",
 			title: "GitHub"
 		},
 		gitlab: {
@@ -57,7 +55,7 @@ const CONFIG = {
 			title: "Discord"
 		},
 		email: {
-			enabled: true,
+			enabled: false,
 			url: "mailto:hello@profilie.harys.is-a.dev",
 			title: "Email"
 		},
@@ -272,8 +270,8 @@ const CONFIG = {
 		// Personal Website/Portfolio
 		website: {
 			enabled: true,
-			url: "https://profilie.js.org/",
-			title: "Profilie"
+			url: "https://i-am-a-good-dev.github.io/",
+			title: "Website"
 		}
 	}
 };
